@@ -60,3 +60,17 @@
   <img width="1304" alt="image" src="https://github.com/user-attachments/assets/cc7d276f-7431-428c-a1ec-fe752f813b2d" />
 
   <img width="1304" alt="image" src="https://github.com/user-attachments/assets/c60e23d2-ac94-4e48-a6d7-e4ed3298f7d7" />
+
+## 8. 🌐 ngrok 外网访问
+- 一键生成公网访问链接，便于远程使用
+  ````c
+Windows:
+ngrok config add-authtoken 专属令牌
+MacOS:
+ngrok authtoken 专属令牌
+````
+
+````c
+ngrok http http://localhost:端口号
+````
+  <img width="311" alt="image" src="https://github.com/user-attachments/assets/d2e29ec7-1411-40e5-9296-33b721c90a37" />
