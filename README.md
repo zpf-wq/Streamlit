@@ -63,14 +63,10 @@
 
 ## 8. 🌐 ngrok 外网访问
 - 一键生成公网访问链接，便于远程使用
-  ````c
-Windows:
-ngrok config add-authtoken 专属令牌
-MacOS:
-ngrok authtoken 专属令牌
-````
-
-````c
-ngrok http http://localhost:端口号
-````
+  ‘’‘’
+  Windows:
+  ngrok config add-authtoken 专属令牌
+  MacOS:
+  ngrok authtoken 专属令牌
+  ‘’‘’
   <img width="311" alt="image" src="https://github.com/user-attachments/assets/d2e29ec7-1411-40e5-9296-33b721c90a37" />
