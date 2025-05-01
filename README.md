@@ -43,7 +43,7 @@
 
 - 提交后会展示保存进度条，并将上传的图像和代码保存到对应目录。
 
-  <img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501105802731.png" alt="image-20250501105802731" style="zoom:33%;" />
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/e243c0fe-9428-442b-b6ad-6d81c2dc378e" />
 
 ## 6. 🔎 实验日志搜索
 
@@ -51,16 +51,12 @@
 
 - 支持“批量查阅”：以选定日期为中心，显示其前后三天的实验记录。
 
-  <img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501110015305.png" alt="image-20250501110015305" style="zoom:33%;" />
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/bf4bd9dd-5b05-4908-a120-e34e79bc090d" />
 
 ## 7. 📂 浏览所有历史日志
 
 - 以展开列表形式展示所有记录，包括日志文本、图像结果和代码。
 
-  <img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501105841197.png" alt="image-20250501105841197" style="zoom:33%;" />
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/cc7d276f-7431-428c-a1ec-fe752f813b2d" />
 
-<img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501105910108.png" alt="image-20250501105910108" style="zoom:33%;" />
-
-
-
-
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/c60e23d2-ac94-4e48-a6d7-e4ed3298f7d7" />
