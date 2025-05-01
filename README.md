@@ -70,9 +70,10 @@
   MacOS:
   ngrok authtoken 专属令牌
   ````
-- 通过本地端口号实登录
+- 通过本地端口号实现登录
   ````c
   ngrok http http://localhost:端口号
   ````
 
-  <img width="311" alt="image" src="https://github.com/user-attachments/assets/d2e29ec7-1411-40e5-9296-33b721c90a37" />
+  <img width="251" alt="image" src="https://github.com/user-attachments/assets/0b87bfe5-8d47-43bb-a4e5-ccc653826e74" />
+
