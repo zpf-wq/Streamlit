@@ -10,7 +10,7 @@
 
 - 支持重复创建日期处理，防止覆盖已有数据。
 
-  <img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501105311750.png" alt="image-20250501105311750" style="zoom: 33%;" />
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/1a53e5a8-f788-4eba-9fa8-576f72e4fcde" />
 
 ## 2. 📝 实验日志记录
 
@@ -25,7 +25,7 @@
 
 - 自动保存至：`Imag/<日期>/<日期>_<原图名>.png`。
 
-  <img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501105519385.png" alt="image-20250501105519385" style="zoom:33%;" />
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/3ac2290a-0443-44b9-a542-045bab6dbb7b" />
 
 ## 4. 💻 上传与展示代码
 
@@ -37,7 +37,7 @@
 
 - 自动格式化代码（去除连续空行）。
 
-  <img src="/Users/zhangpengfei/Library/Application Support/typora-user-images/image-20250501105711780.png" alt="image-20250501105711780" style="zoom:33%;" />
+  <img width="1304" alt="image" src="https://github.com/user-attachments/assets/ea9a7ccd-5f43-4524-9199-6b17e26dfef5" />
 
 ## 5. ✅ 提交与保存
 
